@@ -68,7 +68,7 @@
                                                                 <li><a href="#">Machine Learning</a></li>
                                                                 <li><a href="#">Data Analysis</a></li>
                                                                 <li><a href="#">Artificial Intelligence</a></li>
-                                                                <li><a href="#">Phython</a></li>
+                                                                <li><a href="#">Python</a></li>
                                                             </ul>
                                                         </li>
                                                         <li>
@@ -101,7 +101,7 @@
                                                                 <li><a href="#">Algorithm</a></li>
                                                                 <li><a href="#">Microservices</a></li>
                                                                 <li><a href="#">Linux</a></li>
-                                                                <li><a href="#">Phython</a></li>
+                                                                <li><a href="#">Python</a></li>
                                                                 <li><a href="#">Apache Airflow</a></li>
                                                             </ul>
                                                         </li>
