@@ -4,14 +4,14 @@
 <head>
         <!-- meta tag -->
         <meta charset="utf-8">
-        <title>Educavo - Education HTML Template</title>
+        <title>Eschool - Education HTML Template</title>
         <meta name="description" content="">
         <!-- responsive tag -->
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- favicon -->
         <link rel="apple-touch-icon" href="apple-touch-icon.html">
-        <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/front/images/fav.png') }}') }}">
+        <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/front/images/eschool_fav.png') }}">
         <!-- Bootstrap v4.4.1 css -->
         <link rel="stylesheet" type="text/css" href="{{asset('assets/front/css/bootstrap.min.css') }}">
         <!-- font-awesome css -->

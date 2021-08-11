@@ -75,7 +75,7 @@
                     </div>
                 </div>
                 <!-- About Section End -->
-                <!-- Educavo History Start -->
+                <!-- Eschool History Start -->
                 <div class="rs-about style1 pt-100 pb-100 md-pt-70 md-pb-70">
                     <div class="container">
                         <div class="row align-items-center">
@@ -100,7 +100,7 @@
                                 <div class="tab-content tabs-content" id="myTabContent">
                                     <div class="tab-pane tab fade show active" id="about-history" role="tabpanel" aria-labelledby="about-history-tab">
                                         <div class="sec-title mb-25">
-                                            <h2 class="title">Educavo History</h2>
+                                            <h2 class="title">Eschool History</h2>
                                             <div class="desc">At vero eos et accusamus et iusto odio dignissimos ducimus qui blan ditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, sim ilique sunt in culpa.</div>
                                         </div>
                                         <div class="tab-img">
@@ -109,7 +109,7 @@
                                     </div>
                                     <div class="tab-pane fade" id="about-mission" role="tabpanel" aria-labelledby="about-mission-tab">
                                         <div class="sec-title mb-25">
-                                            <h2 class="title">Educavo Mission</h2>
+                                            <h2 class="title">Eschool Mission</h2>
                                             <div class="desc">At vero eos et accusamus et iusto odio dignissimos ducimus qui blan ditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, sim ilique sunt in culpa.</div>
                                         </div>
                                         <div class="tab-img">
@@ -118,7 +118,7 @@
                                     </div>
                                     <div class="tab-pane fade" id="about-admin" role="tabpanel" aria-labelledby="about-admin-tab">
                                         <div class="sec-title mb-25">
-                                            <h2 class="title">Educavo Administration</h2>
+                                            <h2 class="title">Eschool Administration</h2>
                                             <div class="desc">At vero eos et accusamus et iusto odio dignissimos ducimus qui blan ditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, sim ilique sunt in culpa.</div>
                                         </div>
                                         <div class="tab-img">
@@ -134,7 +134,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- Educavo History End -->
+                <!-- Eschool History End -->
                 <!-- Team Section Start -->
                 <div id="rs-team" class="rs-team style1 orange-color pt-94 pb-100 md-pt-64 md-pb-70 gray-bg">
                     <div class="container">

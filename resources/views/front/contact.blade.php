@@ -35,7 +35,7 @@
                             </div>
                             <div class="address-text">
                                  <span class="label">Email Addresss</span>
-                                 <span class="des">info@educavo.com</span>
+                                 <span class="des">info@eschool.com</span>
                              </div>
                         </div>
                         <div class="address-item">
@@ -69,7 +69,7 @@
                             </div>
                             <div class="address-text">
                                  <span class="label">Email Address</span>
-                                 <span class="des">admission@educavo.com</span>
+                                 <span class="des">admission@eschool.com</span>
                              </div>
                         </div>
                         <div class="address-item">
@@ -103,7 +103,7 @@
                             </div>
                             <div class="address-text">
                                  <span class="label">Email Address</span>
-                                 <span class="des">emergency@educavo.com</span>
+                                 <span class="des">emergency@eschool.com</span>
                              </div>
                         </div>
                         <div class="address-item">
@@ -141,7 +141,7 @@
                             <p>Have some suggestions or just want to say hi? Our  support team are ready to help you 24/7.</p>
                         </div>
                         <div id="form-messages"></div>
-                        <form id="contact-form" method="post" action="https://keenitsolutions.com/products/html/educavo/mailer.php">
+                        <form id="contact-form" method="post" action="https://keenitsolutions.com/products/html/eschool/mailer.php">
                             <fieldset>
                                 <div class="row">
                                     <div class="col-lg-6 mb-35 col-md-6 col-sm-6">

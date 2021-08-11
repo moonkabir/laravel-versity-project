@@ -19,7 +19,6 @@
             </div>
         </div>
         <!-- Breadcrumbs End -->
-
         <!-- Register Section -->
         <section class="register-section pt-100 pb-100">
             <div class="container">
@@ -38,17 +37,14 @@
                                 <div class="form-group col-lg-12 mb-25">
                                     <input type="text" id="Name" name="First Name" value="" placeholder="First Name" required>
                                 </div>
-
                                 <!-- Form Group -->
                                 <div class="form-group col-lg-12">
                                     <input type="text" id="last" name="lname" value="" placeholder="Last Name" required>
                                 </div>
-
                                 <!-- Form Group -->
                                 <div class="form-group col-lg-12">
                                     <input type="email" id="email" name="email" value="" placeholder="Email address " required>
                                 </div>
-
                                 <!-- Form Group -->
                                 <div class="form-group col-lg-12">
                                     <input type="text" id="user" name="phone_number" value="" placeholder="Username" required>
@@ -107,7 +103,6 @@
             </div>
         </section>
         <!-- End Login Section -->
-
     </div>
     <!-- Main content End -->
 @endsection

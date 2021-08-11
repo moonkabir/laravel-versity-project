@@ -298,6 +298,14 @@
         $('#login').on('click',function(e){
             e.preventDefault();
             $('body').toggleClass('nav-expanded');
+            $('#rs-register').addClass('d-none');
+            $('#rs-login').removeClass('d-none');
+        });
+        $('#register').on('click',function(e){
+            e.preventDefault();
+            $('body').toggleClass('nav-expanded');
+            $('#rs-login').addClass('d-none');
+            $('#rs-register').removeClass('d-none');
         });
     }
     var navclose = $('#nav-close');

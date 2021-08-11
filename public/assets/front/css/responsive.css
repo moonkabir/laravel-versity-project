@@ -1014,10 +1014,6 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* .rs-menu ul ul li > ul {
-        left: unset;
-        right: 100%;
-    } */
     .rs-features .features-wrap {
         padding: 20px 15px;
     }

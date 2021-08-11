@@ -42,7 +42,7 @@
                     <div class="about-part">
                         <div class="sec-title mb-40">
                             <div class="sub-title primary wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">About Us</div>
-                            <h2 class="title wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">World Best Virtual Learning Network Educavo eLearning</h2>
+                            <h2 class="title wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">World Best Virtual Learning Network Eschool eLearning</h2>
                             <div class="desc wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">Lorem ipsum dolor sit amet, consectetur adipisicing elit, eius to mod tempor incidi dunt ut labore et dolore magna aliqua. Ut enims ad minim veniam.Lorem ipsum dolor sit amet, consectetur adipisicing elit, eius to mod tempor incidi dunt ut labore et dolore magna aliqua. Ut enims ad minim veniam.Lorem sum dolor sit amet, consectetur adipisicing.</div>
                         </div>
                         <div class="sign-part wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
@@ -51,7 +51,7 @@
                             </div>
                             <div class="author-part">
                                 <span class="sign mb-10"><img src="{{asset('assets/front/images/about/sign.png') }}" alt="Sign"></span>
-                                <span class="post">CEO & Founder of Educavo</span>
+                                <span class="post">CEO & Founder of Eschool</span>
                             </div>
                         </div>
                     </div>
@@ -490,7 +490,7 @@
                                 <div class="card">
                                     <div class="card-header">
 
-                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false">Does Educavo offer free courses?</a>
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false">Does Eschool offer free courses?</a>
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent="#accordion">
                                         <div class="card-body">

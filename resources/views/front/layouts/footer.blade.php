@@ -101,7 +101,7 @@
                  </div>
                  <div class="col-lg-4 md-mb-20">
                      <div class="copyright text-center md-text-left">
-                         <p>&copy; 2020 All Rights Reserved. Developed By <a href="http://rstheme.com/">RSTheme</a></p>
+                         <p>&copy; 2020 All Rights Reserved. Developed By <a href="http://eschool.com/">ESCHOOL</a></p>
                      </div>
                  </div>
                  <div class="col-lg-4 text-right md-text-left">
